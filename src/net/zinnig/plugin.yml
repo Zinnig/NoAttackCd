@@ -1,0 +1,6 @@
+api-version: 1.13
+name: NoAttackCD
+main: net.zinnig.main.Main
+version: 1.0
+
+commands:
